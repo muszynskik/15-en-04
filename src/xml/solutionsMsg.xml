@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solutions>
+  <ProblemType>str1234</ProblemType>
+  <Id>12345</Id>
+  <CommonData>AAAAZg==</CommonData>
+  <ChildSolutions>
+    <Solution>
+      <TaskId>12345</TaskId>
+      <TimeoutOccured>true</TimeoutOccured>
+      <Type>Ongoing</Type>
+      <ComputationsTime>12345</ComputationsTime>
+      <Data>AAAAZg==</Data>
+    </Solution>
+  </ChildSolutions>
+</Solutions>
