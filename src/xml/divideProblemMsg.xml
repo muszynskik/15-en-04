@@ -3,4 +3,5 @@
   <ProblemType>String12</ProblemType>
   <Id>123</Id>
   <Data>Data==</Data>
+  <Msg>Message</Msg>
 </DivideProblem>
