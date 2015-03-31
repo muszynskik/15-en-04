@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DivideProblem>
-  <ProblemType>String12</ProblemType>
-  <Id>123</Id>
+  <ProblemType>String</ProblemType>
+  <Id>12345</Id>
   <Data>Data==</Data>
-  <Msg>Message</Msg>
 </DivideProblem>
