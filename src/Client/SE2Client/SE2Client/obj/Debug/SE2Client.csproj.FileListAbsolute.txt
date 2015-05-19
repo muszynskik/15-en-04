@@ -1,0 +1,18 @@
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Debug\SE2Client.exe.config
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Debug\SE2Client.exe
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Debug\SE2Client.pdb
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.csprojResolveAssemblyReference.cache
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.Main_Form.resources
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.Properties.Resources.resources
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.csproj.GenerateResource.Cache
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.exe
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Debug\SE2Client.pdb
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\bin\Debug\SE2Client.exe.config
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.exe
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.pdb
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\bin\Debug\SE2Client.exe
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\bin\Debug\SE2Client.pdb
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.Main_Form.resources
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.Properties.Resources.resources
+h:\Windows7\Desktop\SE2Client\SE2Client\SE2Client\obj\Debug\SE2Client.csproj.GenerateResource.Cache

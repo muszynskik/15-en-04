@@ -1,0 +1,8 @@
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Release\SE2Client.exe.config
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Release\SE2Client.exe
+A:\Projects\Visual Studio\SE2Client\SE2Client\bin\Release\SE2Client.pdb
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Release\SE2Client.Main_Form.resources
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Release\SE2Client.Properties.Resources.resources
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Release\SE2Client.csproj.GenerateResource.Cache
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Release\SE2Client.exe
+A:\Projects\Visual Studio\SE2Client\SE2Client\obj\Release\SE2Client.pdb
