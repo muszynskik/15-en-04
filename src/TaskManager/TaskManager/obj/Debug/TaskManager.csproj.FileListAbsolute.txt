@@ -1,0 +1,18 @@
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\karolina drewnik\documents\visual studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+h:\Windows7\Desktop\14-en-02\src\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache

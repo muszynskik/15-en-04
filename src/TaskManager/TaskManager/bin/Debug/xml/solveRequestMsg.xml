@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DivideProblem>
+<SolveRequest>
   <ProblemType>str1234</ProblemType>
-  <Id>12345</Id>
+  <SolvingTimeout>12345</SolvingTimeout>
   <Data>AAAAZg==</Data>
-</DivideProblem>
+</SolveRequest>

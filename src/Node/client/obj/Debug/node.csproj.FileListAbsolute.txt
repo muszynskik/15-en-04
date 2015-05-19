@@ -1,0 +1,25 @@
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\client.exe.config
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\client.exe
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\client.pdb
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\client.exe
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\client.pdb
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\UCCTaskSolver.dll
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\bin\Debug\UCCTaskSolver.xml
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\node.csprojResolveAssemblyReference.cache
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\client.Form1.resources
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Karolina Drewnik\Desktop\client\Node\client\obj\Debug\node.csproj.GenerateResource.Cache
+C:\Users\Karol\Desktop\14-en-02\src\Node\client\bin\Debug\client.exe.config
+C:\Users\Karol\Desktop\14-en-02\src\Node\client\obj\Debug\client.exe
+C:\Users\Karol\Desktop\14-en-02\src\Node\client\obj\Debug\client.pdb
+h:\Windows7\Desktop\14-en-02\src\Node\client\bin\Debug\client.exe.config
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\client.exe
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\client.pdb
+h:\Windows7\Desktop\14-en-02\src\Node\client\bin\Debug\client.exe
+h:\Windows7\Desktop\14-en-02\src\Node\client\bin\Debug\client.pdb
+h:\Windows7\Desktop\14-en-02\src\Node\client\bin\Debug\UCCTaskSolver.xml
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\node.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\client.Form1.resources
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\client.Properties.Resources.resources
+h:\Windows7\Desktop\14-en-02\src\Node\client\obj\Debug\node.csproj.GenerateResource.Cache

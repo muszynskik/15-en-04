@@ -1,0 +1,21 @@
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\bin\Debug\client.exe.config
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.Form1.resources
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\bin\Debug\client.exe
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\bin\Debug\client.pdb
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.exe
+C:\Users\3ddy\Desktop\csharp.net-informations\client\client\obj\Debug\client.pdb
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\client.exe.config
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.exe
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.pdb
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.Form1.resources
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Karolina Drewnik\Desktop\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\client.exe
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\client.pdb
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\UCCTaskSolver.dll
+C:\Users\Karolina Drewnik\Desktop\client\client\client\bin\Debug\UCCTaskSolver.xml

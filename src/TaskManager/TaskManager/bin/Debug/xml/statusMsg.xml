@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Status>
+  <Id>12345</Id>
+  <Threads>
+    <Thread>
+      <HowLong>12345</HowLong>
+      <ProblemInstanceId>12345</ProblemInstanceId>
+      <TaskId>12345</TaskId>
+      <ProblemType>str1234</ProblemType>
+    </Thread>
+  </Threads>
+</Status>
